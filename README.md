@@ -1,5 +1,5 @@
 # Online_Course_System_Demo
-A demo for selecting courses online, just a demo, not for commercial  use.
+A demo for selecting courses online, just a demo,only for suudying, not for commercial  use.
 ## How to set up:  
 This project is built with JDK 17.  
 Go to https://www.oracle.com/java/technologies/javase/jdk17-0-13-later-archive-downloads.html to download JDK 17.  
